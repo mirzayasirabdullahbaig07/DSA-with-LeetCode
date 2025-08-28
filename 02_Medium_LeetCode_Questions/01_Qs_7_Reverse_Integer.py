@@ -62,3 +62,7 @@ class Solution:
 # Check range (safe)
 
 # Return -321
+
+# Time Complexity: O(log |x|) → proportional to the number of digits in x.
+
+# Space Complexity: O(1) → only constant extra memory used.
