@@ -146,4 +146,5 @@ if __name__ == "__main__":
     weights = [1,2,3,1,1]
     days = 4
     print("Brute Force:", sol.shipWithinDays_bruteforce(weights, days))  # Expected 3
-    print("Binary Search:", sol.shipWithinDays(weights, days))          # Expected 3
+    print("Binary Search:", sol.shipWithinDays(weights, days))          
+    # Expected 3
