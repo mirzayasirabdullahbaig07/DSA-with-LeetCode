@@ -13,6 +13,7 @@ their total weight does not exceed the ship’s capacity.
 Task:
 -----
 Find the minimum ship capacity needed to ship all packages within D days.
+
 """
 
 from typing import List
