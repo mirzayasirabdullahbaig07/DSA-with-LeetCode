@@ -9,6 +9,7 @@ A string is considered valid if:
 1. Every open bracket has a matching close bracket of the same type.
 2. Brackets are closed in the correct order.
 3. No unmatched or extra closing brackets exist.
+
 --------------------------------------------------------
 Example:
 --------------------------------------------------------
