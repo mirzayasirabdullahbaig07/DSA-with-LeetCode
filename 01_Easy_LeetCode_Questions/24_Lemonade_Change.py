@@ -70,7 +70,7 @@ So, to keep future flexibility:
  Code Implementation (Optimal Greedy Solution):
 """
 class Solution:
-    def lemonadeChange(self, bills: List[int]) -> bool:
+    def lemonadeChange(self, bills: list[int]) -> bool:
         five = 0
         ten = 0
         
