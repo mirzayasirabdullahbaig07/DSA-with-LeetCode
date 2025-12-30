@@ -77,4 +77,5 @@ class Solution:
             else:
                 result += values[s[i]]
 
+
         return result
