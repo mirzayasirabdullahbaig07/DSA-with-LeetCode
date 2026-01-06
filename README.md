@@ -32,7 +32,7 @@ My goal is to master problem-solving and build a strong foundation for **Machine
 | 15 | Dynamic Programming | Tabulation, memoization, optimization | ✅ |
 | 16 | Strings | Palindromes, substrings, pattern matching | ✅ |
 
-> 🧭 **Z2H (Zero to Hero)** means mastering each topic from basics → intermediate → advanced → LeetCode problems.
+> 🧭 **Z2H (Zero to Hero)** means mastering each topic from basics → intermediate → advanced → LeetCode problems
 
 ---
 
